@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GetPages&Flowchart_1",
+        "PhNo&Flowchart_1",
+        "CPT&Flowchart_1",
+        "Receivers&Flowchart_1",
+        "Running_Count&Flowchart_1",
+        "Robo_name&Sequence_16",
+        "Robo_name1&Flowchart_1",
+        "FailledCount&Flowchart_1",
+        "completed&Flowchart_1",
+        "Total&Flowchart_1",
+        "Input_DataTable&Sequence_15",
+        "InputPath&Flowchart_1",
+        "OutputDT&Flowchart_1",
+        "FaxNo&Flowchart_1",
+        "InputPatientId&Flowchart_1",
+        "PatientName&Flowchart_1",
+        "PatientFolderPath&Flowchart_1",
+        "MergePDF&Flowchart_1",
+        "DOS&Flowchart_1",
+        "CheckDos&Flowchart_1",
+        "PageNo&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
